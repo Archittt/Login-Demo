@@ -11,5 +11,5 @@ Upon running the program, users are greeted with a welcome message and a menu of
 2. Login
 3. Quit
 
-# Contributing
+# Contributions
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
